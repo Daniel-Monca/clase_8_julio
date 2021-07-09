@@ -15,5 +15,7 @@ public class App
         System.out.println(su);
         int res=r-s;
         System.out.println(res);
+        int m=r*s;
+        System.out.println(m);
     }
 }
